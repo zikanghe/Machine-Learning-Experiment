@@ -54,6 +54,8 @@ buildmodel2:CNN setting of MAOOAM
 
 line 1-123: configure hybrid model HMM
 
+line 77-84: define the hybrid step function
+
 line 124-139: run hybrid model to evaluate the results
 
 

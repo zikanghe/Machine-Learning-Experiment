@@ -34,7 +34,7 @@ line 65-68: train CNN
 
 line 69-75: save results 
 
-##test2_utils.py
+## test2_utils.py
 
 CNN model setting
 
@@ -42,7 +42,7 @@ buildmodel:CNN setting of L2S
 
 buildmodel2:CNN setting of MAOOAM
 
-#4_1_simulate_Hybrid.py
+## 4_1_simulate_Hybrid.py
 
 line 1-123: configure hybrid model HMM
 

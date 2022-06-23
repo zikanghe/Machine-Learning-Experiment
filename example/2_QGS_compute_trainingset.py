@@ -100,7 +100,7 @@ if __name__ == "__main__":
    #use the DA result to train the CNN
     data =np.load('daPF.npz')
     xx = data['mua']
-    #use 62years results for trainset
+    #Select training time series
     xx_train = xx[0:30000]
 
 	# Estimation of the true value after dtObs MTU
